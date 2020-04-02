@@ -17,5 +17,5 @@
       Pokemonduy
   </author>
 <icon src="icon.png" />
-
+<preference name="phonegap-version" value="cli-9.0.0" />
 </widget>
